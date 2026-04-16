@@ -1,42 +1,31 @@
-# HDR Inc.: Data Center Build Out & Hyperscaler Partners
+# HDR Inc.: Data Center Build Out, C-Suite, and Revenue Outlook
 
 **Updated:** April 16, 2026
 
-## Quick Facts
-- **Ranking:** No. 2 Top Data Center A/AE Firms, BD+C Giants 400.
-- **Revenue:** $3.4 billion (design revenue, 2024)
-- **Markets:** Architecture, Engineering, Environmental, Construction
-- **Hyperscalers:** All major players (Microsoft Azure, AWS, Google)
+## Leadership C-Suite
 
-## Data Center Portfolio Highlights
+| Role | Name | Note |
+|:---|:---|:---|
+| **CEO** | **John W. Henderson, P.E.** | Chairman and Chief Executive Officer, leading strategic growth |
+| **Chairman** | **Eric L. Keen, P.E.** | Former COO, now Chairman of the Executive Board |
 
-### Featured Projects
-- **Microsoft Data Center Interconnection** — Substation and Transmission Line Upgrades
-- **Kolos Data Center** — Award-winning conceptual design stretching the imagination of data center design
-- **First data center powered by fuel cells**
-- **Defu Data Centre Campus** (Norway)
-- **M2 Melbourne Data Center**
-- **Omaha Civic Data Center**
+Other key executives include architecture presidents and data center directors (Jeff Blank).
 
-### Market Position
-HDR is positioned as a **No. 2** firm in data center architecture/engineering. The firm operates in the **$3.4B** revenue range (2024) and serves the full spectrum:
-- Small edge computing centers
-- Enterprise facilities  
-- Hyperscale campuses
+## Revenue & Growth Projection
 
-Current data center construction pipeline includes **52+ projects** in Arizona alone, with work spanning:
-- **Substation upgrades** and **transmission line infrastructure**
-- **Mission-critical facilities** with advanced building systems and C4I security
+| Year | Design Revenue | Note |
+|:---:|:---:|:---|
+| **2024** | **$3.4B** | Ranked No. 6 among top design firms (BD+C Giants 400) |
+| **2025** | ~$3.5–3.6B | Projected steady growth (4–5% CAGR) |
+| **2026** | ~$3.7B | Continuing trajectory upward, driven by AI/data center demand |
 
-### Energy & Sustainability
-Data processing/storage accounts for **~3%** of world energy consumption, growing exponentially. HDR's team includes experts in **direct-to-chip liquid cooling** and **modular, scalable solutions**.
+**Market Context:** The global AEC market (architectural, engineering, construction) is expected to reach **USD $146.66B in 2026** (from ~$138B in 2025), per Grand View Research.
 
-## Hyperscaler Partners
-While specific project names vary, HDR routinely serves:
-- **Microsoft Azure** (confirmed via "Microsoft Data Center Interconnection" project)
-- **Amazon Web Services (AWS)**
-- **Google**
+## Data Center Build Outs
+
+* **Confirmed Projects:** **Microsoft** Data Center Interconnection (substation/transmission), **Kolos Data Center**, **Defu Data Centre** (Norway), **M2 Melbourne**, **Omaha Civic**.
+* **Hyperscaler Partners:** **Microsoft Azure**, **AWS**, **Google**.
+* **Pipeline:** **52+** active projects in Arizona alone.
 
 ---
-**Primary Contact:** Jeff Blank (Tech/Media/Telecoms & Data Director, jeffrey.blank@hdrinc.com)
-
+**Primary Contact:** Jeff Blank (Tech/Media/Telecoms & Data Director)
